@@ -1,0 +1,1 @@
+git remote set-url origin https://xxx@github.com/Tomosom/usage_of_tesseract.git
